@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ruling SYSTEM "file://nastntx95001/common/config/dtd/group-xml.dtd">
+<ruling content-area="HHR\ARB" num="" normval="" pub="" root="" cchwin-doctype="" node-type="document">
+<ruling-text content-area="HHR\ARB">
+<html>
+<head><title></title></head>
+<body>
+<p>City of Strongsville, Ohio -and- International Association of Firefighters, Local 2882</p>
+<p>Arbitration Case</p>
+<p>AAA No. 01-16-0003-6935</p>
+<p>March 22, 2017.</p>
+<p>Colman R. Lalka, Arbitrator</p>
+<h4 align="center"><small-cap>Opinion and Award</small-cap></h4>
+<h4 align="center"><i>INTRODUCTION</i></h4>
+<p>This arbitration proceeding was conducted pursuant to Article XV of the January 1, 2016 <i>Agreement between The City of Strongsville, Ohio and International Association of Fire Fighters, Local 2882.</i> Hearing was held in Strongsville, Ohio on November 29 and December 28, 2016. At the hearing, sworn testimony was taken with the Parties being provided an equal opportunity to examine and cross-examine witnesses, and exhibits offered and made part of the record. Both Parties submitted Post Hearing Briefs.</p>
+<h4 align="center"><i>STATEMENT OF THE CASE</i></h4>
+<p>The Strongsville Civil Service Commission invalidated a list containing two candidates for the position of Lieutenant. The Union grieved the action of the Commission, and the grievance was processed, without resolution, through the steps of the Parties' contractual grievance procedure. The matter is now before this Arbitrator for final and binding determination.</p>
+<h4 align="center"><i>ISSUE</i></h4>
+<blockquote><p class="continued">Is the within grievance arbitrable? If so, the merits of the grievance are to be addressed.</p></blockquote>
+<h4 align="center"><i>COLLECTIVE BARGAINING AGREEMENT</i></h4>
+<p>The following provisions of the Parties' Collective Bargaining Agreement are applicable to these proceedings:</p>
+<blockquote>
+<h4 align="left">ARTICLE I PREAMBLE</h4>
+<p>This Agreement, entered into by the City of Strongsville, hereinafter referred to as the &ldquo;Employer&rdquo;, and the International Association of Fire Fighters, Local 2882, hereinafter referred to as the &ldquo;Union&rdquo;, has as its purpose the following:</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p class="continued">1.02 To provide for the peaceful and equitable adjustment of differences which may arise.</p>
+<p align="center">&ast; &ast; &ast;</p>
+<h4 align="left">ARTICLE XII PROMOTIONAL EXAMINATIONS</h4>
+<p>12.01 Promotional examinations shall be governed by the Rules and Regulations of the Strongsville Civil Service Commission&hellip;.</p>
+<h4 align="left">ARTICLE XV GRIEVANCE PROCEDURE</h4>
+<p>15.01 The grievance procedure is a formal mechanism intended to assure that employee grievances &hellip; are promptly heard, answered, and appropriate action taken to correct a particular situation&hellip;.</p>
+<p>15.02 The term &ldquo;grievance&rdquo; shall mean an allegation by an employee that there has been a breach, misinterpretation, or improper application of this Agreement&hellip;</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p>15.04 The following steps shall be followed in the processing of a &hellip; grievance &hellip;</p>
+<p align="center">&ast; &ast; &ast;</p>
+<h4 align="left">STEP 4- ARBITRATION</h4>
+<p>In the event the grievance is not resolved &hellip; the Union may submit the grievance to arbitration &hellip;</p>
+<p>The arbitrator shall hold the arbitration promptly and issue his decision within a reasonable time thereafter. The arbitrator shall limit his decision strictly to the interpretation, application, or enforcement of those specific articles and/or sections of this Agreement in question. The arbitrator's decision shall be consistent with applicable law.</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p>The question of arbitrability of a grievance may be raised by either party before the arbitration hearing of the grievance, on the grounds that the matter is non-arbitrable or beyond the arbitrator's jurisdiction. If applicable, the first question to be placed before the arbitrator will be whether or not the alleged grievance is arbitrable. If the arbitrator determines the grievance is within the purview of arbitrability, the alleged grievance will be heard on its merits before the same arbitrator.</p>
+<p>The decision of the arbitrator will be final and binding upon the Union, the employee, and the Employer&hellip; All costs directly related to the services of the arbitrator &hellip; &lsqb;and&rsqb; the fee of the arbitrator &hellip; shall be paid by the losing party&hellip;.</p>
+</blockquote>
+<p align="center">&ast; &ast; &ast;</p>
+<p class="continued">The following provisions of a Memorandum of Understanding are applicable to these proceedings:</p>
+<h4 align="center">MEMORANDUM OF UNDERSTANDING</h4>
+<blockquote>
+<p>This Memorandum of Understanding is entered into between the City of Strongs-ville (Employer) and the Strongsville Firefighters Association, IAFF Local 2882 (Union) and sets forth the following acknowledgments, understandings and agreements:</p>
+<p align="center">&ast; &ast; &ast;</p>
+<h4 align="center">RULE VI</h4>
+<h4 align="center">FIRE DEPARTMENT</h4>
+<p>2. Promotions &ndash; Fire Department&mdash;Lieutenant&hellip;.</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p>In addition, for the first tests being given in 2015 for Lieutenant and Captain positions the Union agrees and waives the following newly adopted procedure:</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p>c) Agrees &hellip; that the initial Lieutenant eligibility list will be in place until the fourth Wednesday in February 2018 notwithstanding anything in the newly adopted promotional process to the contrary.</p>
+</blockquote>
+<p align="center">&ast; &ast; &ast;</p>
+<p class="continued">The following Rules and Regulations of the Strongsville Civil Service Commission are applicable to the matter addressed in the instant grievance:</p>
+<h4 align="center">PREAMBLE</h4>
+<blockquote>
+<p>The following set of Rules and Regulations is hereby adopted in accordance with the authority conferred upon the Civil Service Commission of the City of Strongsville, Ohio.</p>
+</blockquote>
+<p align="center">&ast; &ast; &ast;</p>
+<h4 align="center">RULE VI</h4>
+<h4 align="center">FIRE DEPARTMENT</h4>
+<p align="center">&ast; &ast; &ast;</p>
+<blockquote>
+<p class="continued">2. Promotions &ndash; Fire Department &ndash; Lieutenant. Vacancies in the position of Lieutenant shall be filled as follows:</p>
+<blockquote><p class="continued">a. A vacancy in the position of Lieutenant shall be filled by promotion from the rank of First Class Firefighter/Paramedics.</p>
+<p align="center">&ast; &ast; &ast;</p>
+<p class="continued">1. Interview and Appointment. After the examination an eligibility list is established and the Commission shall, upon request from the Mayor indicating that a vacancy exists, forthwith certify to the Mayor the names of the top three (3) candidates on the eligibility list&hellip;.</p></blockquote>
+<p class="continued">Candidates passed over for appointment shall remain in the same position on the eligibility list for the duration for that eligibility list.</p>
+<p align="center">&ast; &ast; &ast;</p>
+<h4 align="center">RULE IX</h4>
+<h4 align="center">ELIGIBLE LISTS</h4>
+<p class="continued">1. Preparation of lists. The Commission shall prepare from the grades of each examination an eligibility list of persons whose grade in the examination is not less than the passing grade established by the Commission and persons who are otherwise eligible for appointment. Such persons shall take rank upon the list in their order of eligibility as determined by the Civil Service Commission. Whenever it becomes necessary to hold a subsequent examination as a result of there being an insufficient number of names on the list to certify as being eligible for appointment, the Commission may, in its sole discretion, consolidate the existing list for the same position with a new list by maintaining those on the existing list in their current order and then retesting for the ranking of names for the remaining positions on the eligibility list. Alternatively, the Commission may, in its sole discretion, declare the existing list, with insufficient names, expired and create a whole new list by testing. In such a case all those persons whose names appear on the existing list and who are still eligible for such appointment shall have an opportunity to compete in the new examination.</p>
+<p align="center">&ast; &ast; &ast;</p>
+</blockquote>
+<h4 align="center"><i>DISCUSSION</i></h4>
+<p>The City of Strongsville, Ohio maintains a Fire Department consisting of the ranks of Chief, Assistant Chief, Captain, Lieutenant, and Firefighter. Those in the ranks of Firefighter through Captain fall under the purview of the above noted Collective Bargaining Agreement between the City and the IAFF Local 2882. The Collective Bargaining Agreement provides, at Article XII, Paragraph 12.01, that examinations for promotion are governed by the rules and regulations of the Strongsville Civil Service Commission.</p>
+<p>The City Charter provides for the Civil Service Commission. The Commission has the duties, among others, of maintaining Eligibility Lists for Fire Department promotions, as well as testing to determine those eligible to be listed, and certifying the lists to the Mayor for final determination of the Firefighters to be promoted. In keeping with its Rules and Regulations, the Civil Service Commission, in 2015, conducted a promotional examination in order to provide an Eligibility List for vacancies in the rank of Lieutenant.</p>
+<p>Of thirteen Firefighters taking the examination, five successfully obtained passing grades. The Eligibility List was certified by the Commission on October 23, 2015. The Mayor, as Appointing Authority, promoted the first three on the Eligibility List. The Grievants, Matthew Kasza and Thomas Sullivan, were fourth and fifth. This list was scheduled to expire on February 28, 2018, however, pursuant to Civil Service Rule VI, 2.1, a Fire Department Eligibility List for Lieutenant must contain at least three names to be certified to the Mayor.</p>
+<p>In the event an Eligibility List contains less than three names, the Commission, pursuant to its Rule IX, in its sole discretion has the option to: 1) consolidate the existing list with a new list, or 2) declare the existing list with insufficient names expired and create a new list via testing. In 2016 another vacancy in the Lieutenant position occurred, and the Commission, opting for the second alternative, declared as expired the then existing list containing the names of the two Grievants.</p>
+<p>On July 6, 2016, the following grievance was initiated:</p>
+<blockquote><p>On Monday, June 27, 2016, I attended the City of Strongsville Civil Service Commission meeting in regards to the eligibility list for promotion of Lieutenant. At this meeting, the Civil Service Commission declared the existing eligibility list expired since there were not a sufficient number of names remaining on the list.</p>
+<p>After leaving the Civil Service meeting I spoke with Local 2882 President Tony Hunt to discuss the current Agreement between the City of Strongsville and the International Association of Fire Fighters Local 2882 and articles of the agreement that may have been violated.</p>
+<p>In accordance with the Agreement between the City of Strongsville and the International Association of Fire Fighters Local 2882 under Article 15.04 Step 1 &hellip;, let this serve as the first step in the grievance procedure.</p>
+<p>The decision that was made at the Civil Service meeting does not follow past practice of previous promotions. This grievance also contains several articles of the agreement that are a breach, misinterpretation, and improper application of the agreement that occurred on June 27, 2016, for eligibility list and promotion procedures for Fire Department Lieutenant.</p>
+<blockquote><p class="continued">Please consider the following articles for the basis of my grievance:</p>
+<p class="continued">1) Article V Pledge Against Discrimination and Coercion</p>
+<p class="continued">2) Article VI Management Rights</p>
+<p class="continued">3) Article XII Promotional Examinations</p>
+<p class="continued">4) Memorandum of Understanding (Promotions)</p>
+<p class="continued">5) Side Letter of Memorandum of Agreement (Promotions) The resolution requested:</p>
+<p class="continued">1) The Certified Fire Department Lieutenant Eligibility List remain in effect until February 28, 2018.</p>
+<p class="continued">2) Selection to the position of Fire Department Lieutenant shall come from certified names on the list.</p>
+<p class="continued">3) No action taken for submitting this grievance in good faith.</p></blockquote></blockquote>
+<p>The grievance was denied, and was processed to Step 2. On July 25, 2016, the City, through Chief John Draves, issued its Step 2 denial of the grievance, contending the matter not arbitrable:</p>
+<blockquote><p>I have reviewed and carefully considered your July 13, 2016 communication purporting to present a Grievance regarding a Civil Service Commission meeting on June 27, 2016 and their decision to vacate the current-Lieutenant eligibility list and announce a new Lieutenant Promotional Exam. I have denied your grievance for the following reasons:</p>
+<p>1. Since, as you know, the promotional process is governed by the Civil Service Commission's Rules (as referenced by the Collective Bargaining Agreement), your purported &ldquo;Grievance&rdquo; is not a proper matter for the grievance process and is not, therefore, arbitrable.</p>
+<p>2. My review indicates that, in any event, all applicable provisions were properly followed. These include Article V, Article VI, and Article XII of the Collective Bargaining Agreement, the MOU attached to the Collective Bargaining Agreement, and Side Letter of the MOU you have referenced. There was no &ldquo;&hellip; breach, misinterpretation, or improper application of the contract &hellip;&rdquo; as you have contended.</p>
+<p>3, In addition, your complaint, if any, is generally vague and ambiguous, and fails to allege any specific violations of the Collective Bargaining Agreement.</p></blockquote>
+<p align="center">&ast; &ast; &ast;</p>
+<p>In continuing to deny arbitrability, at the commencement of the first day of the arbitration hearing, the City again raised the issue, contending a Court of Common Please, not arbitration, is the proper forum for the within matter. The City argues that a decision rendered by the Civil Service Commission constitutes the basis for the grievance, and emphasizes that the Commission, not being a party to the Collective Bargaining Agreement, is not subject to challenge pursuant the Agreement's grievance procedure.</p>
+<p>The City contends that this is the Union's second attempt to bring promotional disputes under the purview of the Collective Bargaining Agreement. The first attempt, the City continues, was addressed in an Arbitration Award dated January 21, 2013 by Nets E. Nelson, stylized <i>In the Matter of City of Strongsville and International Association of Firefighters, Local 2882</i>, American Arbitration Association Case No. 53 390 00226 12. That Arbitration Award was also the result of a promotional dispute.</p>
+<p>In 2012, a Lieutenant was second on the Eligibility List for promotion to Captain. Two positions were open, and the Mayor selected the first and third candidates. The matter was grieved, and the City sought injunctive relief from the Cuyahoga County Court of Common Pleas. The Court held that the Collective Bargaining Agreement conferred jurisdiction on an Arbitrator to determine questions of arbitrability.</p>
+<p>Arbitrator Nelson, in a well-reasoned opinion, discussed the history of the parties dating back to 2004 regarding disputes over promotions, including two Arbitration Awards issued by Dennis M. Byrne. Arbitrator Nelson considered argument by the Union that promotions are subject to the grievance procedure of the Parties' Labor Agreement, and argument by the City that promotions are governed by Civil Service Commission rules. This Arbitrator is in full agreement with Arbitrator Nelson's analysis in addressing those matters, and incorporates Arbitrator Nelson's analysis by reference as if fully rewritten.</p>
+<p>The Union cites numerous cases in support of arbitrability.<ftnote num="1"><para>Citations omitted herein.</para></ftnote> The Union emphasizes that those cases hold: that arbitrability should not be denied unless positive assurance exists that the arbitration clause does not cover the asserted dispute; that the party opposing arbitration carries a heavy burden of establishing that the language of a Collective Bargaining Agreement excludes a particular dispute from arbitration; where a standard arbitration clause exists, the question of arbitrability must be answered affirmatively unless the Agreement explicitly provides that the dispute is excluded; and that public policy in Ohio favors and encourages arbitration.</p>
+<p>In addition to Ohio Revised Code Chapter 2506 granting jurisdiction to a Court of Common Pleas to hear appeals from decisions of Civil Service Commissions, it is noted that a matter distinguishing the instant grievance from the holdings in the cases cited by the Union is that the Strongs-ville Civil Service Commission is not a party to the Collective Bargaining Agreement under review herein. As noted in the Preamble of the Parties' Labor Agreement, at Article 1, the Agreement is between the City of Strongsville and the International Association of Firefighters, Local 2882.</p>
+<p>Pursuant to Article XV, Grievance Procedure, it is the City and the Union that agreed, at Paragraph 15.04, Step 4, to a final and binding determination rendered by an Arbitrator. Moreover, Paragraph 15.04, Step 4, expressly provides that a grievance is an alleged breach of the Labor Agreement, and that the Arbitrator shall limit his decision strictly to an interpretation of the Agreement. Holdings of the Civil Service Commission are not part of the agreement. The Commission, not being a party to the Agreement, never contracted to be bound by the language of Paragraph 15.04. This Arbitrator, it follows, is without contractual authority to bind the non-party, Civil Service Commission, to any findings rendered in an Arbitration Award.</p>
+<p>The Union's grievance states, &ldquo;The decision made at the Civil Service meeting does not follow past practice of previous promotions.&rdquo; The grievance goes on to cite Articles of the Labor Agreement, as well as a Memorandum of Understanding and Side Letter. Those Articles, the MOU, and the Side Letter, however, are derivative to the holding of the Civil Service Commission, and cannot not stand alone.</p>
+<p>The Union contends, additionally, that the 2015 MOU imposes a clear, compulsory duty on the city to, without exception, maintain the Eligibility List until February 2018. Any other interpretation, the Union believes, would require the Arbitrator to read language into the MOU that is not there.</p>
+<p>This Arbitrator must respectfully disagree. The word &ldquo;eligibility&rdquo; in the MOU precedes the word &ldquo;list.&rdquo; A Lieutenant's Eligibility List, according to Civil Service Rules, must contain three names to be certified. In that only two names remained, the two names no longer constituted a viable &ldquo;Eligibility List.&rdquo; For the Arbitrator to hold that the list with two names remain in effect until February 2018 would require the Arbitrator to delete the word &ldquo;eligibility&rdquo; from the MOU. The result would be an MOU that reads, &ldquo;&hellip; that the initial Lieutenant <strike>eigibility</strike> list will be in place until the fourth Wednesday in February 2018 &hellip;&rdquo;</p>
+<p>Finally, the Union analogizes the Cat's Paw Theory of Employment Discrimination to the matter at hand. Under the Cat's Paw Theory, an individual motivated by discriminatory animus, but without authority to terminate the employment of one of his or her subordinates, influences a superior with that authority to administer such adverse employment action. Here, the Union argues, the Commission was influenced by the City as the result of animus on the part of the Mayor and Fire Chief.</p>
+<p>This animus, the Union contends, was, at least in part, the result of Firefighter Kasza obtaining a staffing report and presenting it to the City during the last Contract negotiations. The report was dismissed by the City, and it refused to negotiate staffing levels. Firefighter Kasza subsequently presented a copy of the report to council, which, the Union alleges, upset Ch. Draves and the Mayor.</p>
+<p>Whether the Civil Service Commission was unduly influenced by animus on the part of the Administration toward the Union and the Grievants, and whether the Cat's Paw Theory is applicable under the facts of this matter, does not bring the Commission under the purview of the Labor Agreement. As pointed out by the City's Assistant Law Director, the Union's recourse in the event of untoward activity on the part of the Civil Service Commission, is not through the grievance procedure of this Labor Agreement, but through the Court of Common Pleas pursuant to ORC Chapter 2506.</p>
+<h4 align="center"><i>CONCLUSION</i></h4>
+<p>The within grievance is not arbitrable.</p>
+<p>In the above opinion, the alleged facts and arguments were discussed for background. Having found this matter not arbitrable, the Arbitrator refrains from addressing the merits of this matter, or any part thereof, and nothing herein is to be construed as such a finding.</p>
+<p>Pursuant to Article XV, Section 15.04, Step 4, the fees of the Arbitrator are to be paid by the Union.</p>
+</body>
+</html>
+</ruling-text>
+</ruling>

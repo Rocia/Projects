@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ruling SYSTEM "file://nastntx95001/common/config/dtd/group-xml.dtd">
+<ruling content-area="HHR\ARB" num="" normval="" pub="" root="" cchwin-doctype="" node-type="document">
+<ruling-text content-area="HHR\ARB">
+<html>
+<head><title></title></head>
+<body>
+<p>RE: DIAGEO USVI, INC. (Employer/Company) and UNITED STEELWORKERS (USW) LOCAL 8526 (Union)</p>
+<p>Arbitration Case</p>
+<p>CASE NO.: 16-02041-A</p>
+<p>March 30, 2017.</p>
+<p>Thomas R. Skulina, Arbitrator</p>
+<h4 align="center"><i><b>HEARING</b></i></h4>
+<p>This Arbitration Hearing was heard on December 8, 2016, in St. Croix, U.S. Virgin Islands. Post-Hearing Briefs were exchanged on or about February 24, 2017. Counsel for the employer/company was Charles E. Lockwood, Esquire, from Nichols Newman Logan Grey &amp; Lockwood, P.C., of Christiansted, St. Croix, USVI. The advocate for the union was Gerald &ldquo;Jerry&rdquo; Jackson, from The United Steelworkers of America, located in U.S. Virgin Islands.</p>
+<h4 align="center"><i><b>ISSUE</b></i></h4>
+<p>The grievance concentrated on a termination of the grievant.</p>
+<h4 align="center"><i><b>RELEVANT CONTRACT PROVISIONS</b></i></h4>
+<h4 align="center"><i><b>ARTICLE 4 &ndash; MANAGEMENT RIGHTS</b></i></h4>
+<h4 align="left"><b>SECTION 4.1</b></h4>
+<p>The parties hereto agree that Management has and retains for itself, all rights to manage its business and properties, including but not limited to, the assignment of work, the right to establish jobs, role profiles, workloads, work schedules, and reasonable work rules, and to hire, assign, promote, demote, layoff, discipline, suspend and discharge employees, for cause or relieve employees from duty because of lack of work or reduction of work force, the right to relocate or transfer work duties from the facility or warehouse to another location or to a third party, and the right to permanently or temporarily discontinue the operation in whole or in part, provided that the exercise of any such rights by the Company shall not violate any of the explicit provisions of this Agreement. However, it is agreed that this Section shall not be used to discriminate against any member of the union and any such discharge or disciplinary action shall be subject to the grievance procedure.</p>
+<h4 align="center"><i><b>FACTS</b></i></h4>
+<p>The company was in existence in the U.S. Virgin Islands since 2010. The grievant was an employee for more than three years with no disciplinary charges until this one which was a termination.</p>
+<p>He worked in the maintenance area of the company. In performing his duties, he would operate a pick-up truck. On February 15, 2016, he was asked to pick up parts for the vehicle and fill the vehicle with gas. He drove down a hill and lost control of the truck and struck a Shuama Gas Station sign on a steel pole. The collision totaled the truck.</p>
+<p>Since he was in a gas station, he drove the truck down the street. The parties differ whether the regular brakes worked. The grievant says he used the emergency brake to stop the vehicle after the accident at the gas station.</p>
+<p>Police came to the scene and the grievant was issued a citation for failure to maintain proper control of the vehicle and thereby causing an auto collision.</p>
+<p>When the grievant moved out of the station, he eventually parked in the wrong lane of the road, approximately one hundred feet from the Shuama station.</p>
+<p>The grievant was transported by a company employee to a company (Pinnacle), which can conduct drug and alcohol testing.</p>
+<p>A urine sample was taken and there was a positive result for marijuana. The sample was sealed and sent to another testing site for confirmation.</p>
+<p>Alcohol tests were then conducted with a breath screening device. The first test indicated an illegal level of alcohol. (Legal in the Virgin Islands is BAC .08). The finding was .097. The grievant had chewing gum in his mouth so a second test without gum was administered and the result was still an illegal level for a driver of a vehicle. A third test was still over the limit, then .083. The positive test results are contained in Joint Exhibit &ldquo;7&rdquo;.</p>
+<p>The company did send the vehicle to a tire repair company that verified that the brakes &ldquo;were in good working order&rdquo;. The mechanic who checked the brakes had worked at the tire facility (H&amp;H Tire and Battery) for twenty-five years &ldquo;diagnosing and repairing vehicles&rdquo;, Company Exhibit &ldquo;7&rdquo;.</p>
+<p>The company manufactures an alcoholic beverage, i.e., rum. It also has in its policy statement (Company Exhibit &ldquo;1&rdquo;) relative to inappropriate consumption of alcohol. In this case, not only was the alcohol level excessive for driving in the Virgin Islands, there was also a positive finding for the use of a drug, i.e., marijuana. The company did introduce evidence that in a previous incident where an employee driver caused some damage to a vehicle, and was found to have ingested marijuana, and was subsequently fired (Transcript Page 47, Lines 9 through 15).</p>
+<h4 align="center"><b><i>FINDING</i></b></h4>
+<p>This is a case where the employee drove a vehicle very erratically. The truck was totaled and the company had to reimburse the gas station for the damage caused by its employee. The evidence is clear that not only did the grievant drive at an alcohol level in excess of the level allowed by the Virgin Islands; the grievant also tested positive for marijuana in the grievant's system.</p>
+<p>An individual who had a lesser damaging collision, was fired for driving with marijuana in the driver's system. The company in this case demonstrated that there was considerable damage to its vehicle and that there was property damage to a gas station.</p>
+<p>The grievant was proven to have been driving at an excessive level of alcohol, but also had been found with marijuana in the grievant's system. The measure of alcohol was clearly against the company's policy. This policy is such that it complies with the law of the Virgin Islands for driving while under the influence of alcohol. The incorrect behavior was compounded by the fact that not only was too much alcohol involved; there was also an illegal drug.</p>
+<p>I conclude that the company has proven that it had the right to discharge the grievant.</p>
+<h4 align="center"><b>AWARD</b></h4>
+<p>The finding is in favor of the company and the decision is in its favor. The costs of the arbitration shall be divided equally between the Company and Union.</p>
+<h4 align="center"><i><b>ARTICLE 24 &ndash; GRIEVANCE PROCEDURE</b></i></h4>
+<h4 align="left"><b>Section 24.1(E)</b></h4>
+<blockquote>
+<p class="continued">iii. The decision of the arbitrator shall be final, binding and conclusive on all parties. The cost of the arbitrator shall be divided equally between the Company and the Union.</p>
+<p class="continued">This is Joint Exhibit &ldquo;1).</p></blockquote>
+</body>
+</html>
+</ruling-text>
+</ruling>
