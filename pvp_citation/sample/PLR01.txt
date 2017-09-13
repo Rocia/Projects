@@ -1,0 +1,106 @@
+<I>University of Pittsburgh Medical Center</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="36,158">&para;36,158</XREF>
+<I>Volvo Car Corp. (Sweden)</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,170">&para;15,170</XREF>
+<I>Oddi v. Ford Motor Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,934">&para;15,934</XREF>
+<I>Milward v. Acuity Specialty Prods. Grp., Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,600">&para;18,600</XREF>
+<I>Magistrini v. One Hour Martinizing Dry Cleaning</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,238">&para;16,238</XREF>
+<I>Hollander v. Sandoz Pharm. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,324">&para;16,324</XREF>
+<I>Tate v. Boeing Helicopters (Tate II)</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,198">&para;15,198</XREF>
+<I>Oliver v. Oshkosh Truck Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,739">&para;14,739</XREF>
+<I>Snell v. Bell Helicopter Textron, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,876">&para;14,876</XREF>
+<I>Hawkins v. Leslie's Pool Mart, Inc.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,574">&para;15,574</XREF>
+<I>Krummel v. Bombardier Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,778">&para;15,778</XREF>
+<I>aff'd sub nom. Underwood v. Gen. Motors, L.L.C</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,819">&para;19,819</XREF>
+<I>Clark v. Bohn Ford, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,432">&para;16,432</XREF>
+<I>Grenier v. Med. Eng'g Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,038">&para;16,038</XREF>
+<I>Chevron USA, Inc. v. Aker Mar., Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,413">&para;18,413</XREF>
+<I>Carter v. Matrixx Initiatives, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,463">&para;18,463</XREF>
+<I>Bartel v. Alcoa S.S. Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,716">&para;19,716</XREF>
+<I>Kerstetter v. Pac. Sci. Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,781">&para;15,781</XREF>
+<I>Johnson v. Arkema, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,872">&para;18,872</XREF>
+<I>see also Rider v. Sandoz Pharm. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,364">&para;16,364</XREF>
+<I>See Pipitone v. Biomatrix, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,309">&para;16,309</XREF>
+<I>See Goodner v. Hyundai Motor Co., Ltd</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,684">&para;18,684</XREF>
+<I>Honda of Am. Mfg. Inc. v. Norman</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,518">&para;16,518</XREF>
+<I>Hodges v. Mack Trucks Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,662">&para;17,662</XREF>
+<I>cf. Smith v. Louisville Ladder Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,997">&para;15,997</XREF>
+<I>See Gen. Motors Corp. v. Sanchez</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,620">&para;15,620</XREF>
+<I>see also Genie Indus., Inc. v. Matak</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,615">&para;19,615</XREF>
+<I>Casey v. Toyota Motor Eng'g &amp; Mfg. N. Am., Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,492">&para;19,492</XREF>
+<I>Honda of Am. Mfg., Inc. v. Norman</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,518">&para;16,518</XREF>
+<I>see also Goodner v. Hyundai Motor Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,684">&para;18,684</XREF>
+<I>Smith v. Aqua-Flo, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,887">&para;15,887</XREF>
+<I>Ford Motor Co. v. Ledesma</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,894">&para;17,894</XREF>
+<I>Nissan Motor Co. v. Armstrong</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,123">&para;17,123</XREF>
+<I>Fulgenzi v. PLIVA, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,154">&para;19,154</XREF>
+<I>Brinkley v. Pfizer, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,510">&para;19,510</XREF>
+<I>See Thompson v. R.J. Reynolds Tobacco Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,439">&para;19,439</XREF>
+<I>Smith v. Brown &amp; Williamson Tobacco Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,227">&para;19,227</XREF>
+<I>Barnes v. Am. Tobacco Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,407">&para;15,407</XREF>
+<I>Jennings v. BIC Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,612">&para;15,612</XREF>
+<I>United States v. Rigas</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="50,412">&para;50,412</XREF>
+<I>See R.J. Reynolds Tobacco Co. v. Ciccone</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,806">&para;19,806</XREF>
+<I>Aubin v. Union Carbide Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,712">&para;19,712</XREF>
+<I>Graham v. R.J. Reynolds Tobacco Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,596">&para;19,596</XREF>
+<I>Mason v. Ford Motor Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,431">&para;16,431</XREF>
+<I>See Huggins v. Stryker Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,068">&para;19,068</XREF>
+<I>see also Ont. Sewing Mach. Co. v. Smith</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,449">&para;16,449</XREF>
+<I>See Carmical v. Bell Helicopter Textron, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,012">&para;15,012</XREF>
+<I>Wright v. Brooke Grp. Ltd</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,424">&para;16,424</XREF>
+<I>Ritchie v. Glidden Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,019">&para;16,019</XREF>
+<I>McCarthy v. Olin Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,016">&para;15,016</XREF>
+<I>Milanowicz v. Raymond Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,179">&para;16,179</XREF>
+<I>Calhoun v. Yamaha Motor Corp., U.S.A</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,800">&para;16,800</XREF>
+<I>see also Kannakeril v. Terminix Int'l, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,089">&para;15,089</XREF>
+<I>Grier v. Cochran W. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,200">&para;15,200</XREF>
+<I>In re Fosamax (Alendronate Sodium) Prods. Liab. Litig. (Glynn v. Merck Sharp &amp; Dohme Corp.)</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,158">&para;19,158</XREF>
+<I>See Mason v. Smithkline Beecham Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,373">&para;18,373</XREF>
+<I>Gaeta v. Perrigo Pharms. Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,564">&para;18,564</XREF>
+<I>Demahy v. Actavis, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,346">&para;18,346</XREF>
+<I>Mensing v. Wyeth, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,332">&para;18,332</XREF>
+<I>but see Miller v. Smithkline Beecham Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,423">&para;18,423</XREF>
+<I>Horn v. Thoratec Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,065">&para;17,065</XREF>
+<I>Miller v. Rinker Boat Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,128">&para;17,128</XREF>
+<I>Ayo v. Triplex, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,750">&para;18,750</XREF>
+<I>Jack v. Alberto&ndash;Culver USA, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,699">&para;17,699</XREF>
+<I>See Weber v. John Crane, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,628">&para;17,628</XREF>
+<I>Stahl v. Novartis Pharm. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,270">&para;16,270</XREF>
+<I>Caboni v. General Motors Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="17,293">&para;17,293</XREF>
+<I>Jaeger v. Automotive Cas. Ins. Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,878">&para;14,878</XREF>
+<I>Matthews v Remington Arms Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,634">&para;18,634</XREF>
+<I>See Bailey v. Cottrell, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,745">&para;18,745</XREF>
+<I>Dietz v. Smithkline Beecham Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,386">&para;18,386</XREF>
+<I>Hood v. Ryobi Am. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,556">&para;15,556</XREF>
+<I>Patterson v. Balsamico</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="42,409">&para;42,409</XREF>
+<I>Blankenship v. Medtronic, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,367">&para;19,367</XREF>
+<I>Kemp v. Medtronic, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,935">&para;15,935</XREF>
+<I>Bryant v. Medtronic, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,507">&para;18,507</XREF>
+<I>Carlin v. Superior Court</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,718">&para;14,718</XREF>
+<I>See Wyeth v. Rowett</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,540">&para;18,540</XREF>
+<I>Vicuna v. O.P. Schuman &amp; Sons, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,621">&para;19,621</XREF>
+<I>Phillips v. Cricket Lighters</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,838">&para;16,838</XREF>
+<I>See Eskridge v. Pac. Cycle, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,312">&para;19,312</XREF>
+<I>Yoder v. Honeywell, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,825">&para;14,825</XREF>
+<I>Sikkelee v. Precision Airmotive Corp.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,829">&para;19,829</XREF>
+<I>Tincher v. Omega Flex, Inc.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,506">&para;19,506</XREF>
+<I>Ostendorf v. Clark Equip. Co.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,849">&para;16,849</XREF>
+<I>See also McMahon v. Yamaha Motor Corp., U.S.A</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,810">&para;18,810</XREF>
+<I>see also Calhoun v. Yamaha Motor Corp., U.S.A</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,800">&para;16,800</XREF>
+<I>See Barton v. Lowe's Home Centers, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,702">&para;19,702</XREF>
+<I>Gaudio v. Ford Motor Co.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,273">&para;18,273</XREF>
+<I>Aubin v. Union Carbide Corp.</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,712">&para;19,712</XREF>
+<I>May v. Air &amp; Liquid Sys. Corp</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,752">&para;19,752</XREF>
+<I>See Filer v. Foster Wheeler LLC</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,315">&para;19,315</XREF>
+<I>Cf. Georgia Pacific, LLC v. Farrar</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,179">&para;19,179</XREF>
+<I>See, e.g., Cantley v. Lorillard Tobacco Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,646">&para;14,646</XREF>
+<I>American Tobacco Co. v. Grinnell</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,992">&para;14,992</XREF>
+<I>Richardson v. R.J. Reynolds Tobacco Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,111">&para;18,111</XREF>
+<I>Motorola Inc. v. Murray</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,931">&para;19,931</XREF>
+<I>Harrison v. B.F. Goodrich Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="16,934">&para;16,934</XREF>
+<I>See Lovick v. Wil-Rich</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,439">&para;15,439</XREF>
+<I>Spino v. John S. Tilley Ladder Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,991">&para;14,991</XREF>
+<I>Howard v. A.W. Chesterton Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,238">&para;19,238</XREF>
+<I>Baker v. ACandS</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="15,841">&para;15,841</XREF>
+<I>Dixon v. Ford Motor Company</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="19,186">&para;19,186</XREF>
+<I>Ford Motor Co. v. Boomer</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,992">&para;18,992</XREF>
+<I>See Fresh Coat, Inc. v. K&ndash;2, Inc</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="18,470">&para;18,470</XREF>
+<I>Redman v. John D. Brush &amp; Co</I>	<XREF PUB="prl" ROOT="cch-internal-ref" NORMVAL="14,925">&para;14,925</XREF>
